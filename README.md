@@ -38,7 +38,7 @@ and enables users to dynamically slice the entire report **by selected month(s)*
 | **Pivot Charts** | Visualization of KPIs and performance trends |
 | **Slicers** | Month-based filtering for interactivity |
 | **Conditional Formatting** | Highlighting top/bottom performers |
-| **Formulas Used** | `TRIM()`, `PROPER()`, `IFNULL()`, `TEXT()`, `ROUND()` |
+| **Formulas Used** | `TRIM()` and IF Statement.
 
 ---
 
